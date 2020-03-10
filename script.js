@@ -11,23 +11,22 @@ const difficultySelect = document.getElementById("difficulty");
 // list of words
 
 const words = [
-  "sigh",
-  "tense",
-  "airplane",
-  "ball",
-  "pies",
-  "juice",
-  "warlike",
-  "bad",
-  "north",
-  "dependent",
-  "steer",
-  "silver",
-  "highfalutin",
-  "superficial",
-  "one",
-  "eight",
-  "two"
+  "var x = 10;",
+  "let i = 0;",
+  "const j = i;",
+  "i++;",
+  "function()",
+  "export default",
+  "while(i>0)",
+  "new arr = []",
+  "import",
+  "from",
+  "&&",
+  "||",
+  "this",
+  "true;",
+  "false;",
+  "arrowFunction = () => "
 ];
 
 //set difficulty in value to local storage, if none then default to medium
