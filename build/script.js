@@ -26,7 +26,7 @@ const words = [
   "this",
   "true;",
   "false;",
-  "arrowFunction = () => "
+  "arrowFunction = () =>"
 ];
 
 //set difficulty in value to local storage, if none then default to medium
