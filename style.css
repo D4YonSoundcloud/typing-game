@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: rgb(199, 238, 199);
+    background-color: rgb(60, 61, 60);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,10 +30,10 @@ button {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: rgb(145, 224, 145);
-    color: rgb(0, 0, 0);
-    text-shadow:-1px 1px 2px rgb(13, 82, 4);
-    box-shadow: 4px 4px 2px 2px rgb(81, 201, 81);
+    background-color: rgb(29, 29, 29);
+    color: rgb(255, 255, 255);
+    text-shadow:-1px 1px 2px rgb(19, 19, 19);
+    box-shadow: 4px 4px 2px 2px rgb(29, 29, 29);
     height: 70px;
     display: flex;
     align-items: center;
@@ -54,17 +54,17 @@ select{
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    background-color: rgb(227, 243, 227);
+    background-color: rgb(241, 241, 241);
 }
 .settings.hide {
     transform: translateY(-100%);
 }
 
 .container{
-    background-color: rgb(187, 224, 187);
+    background-color: rgb(61, 61, 61);
     padding: 20px;
-    color: rgb(10, 85, 10);
-    box-shadow: 0px 5px 4px rgb(10, 61, 10);
+    color: rgb(238, 238, 238);
+    box-shadow: 0px 5px 4px rgb(24, 24, 24);
     border-radius: 10px;
     text-align: center;
     position: relative;
@@ -72,7 +72,7 @@ select{
 }
 
 .container h2 {
-    background-color: rgb(10, 61, 10);
+    background-color: rgb(206, 206, 206);
     padding: 8px;
     border-radius: 4px;
     margin: 0 0 40px;
