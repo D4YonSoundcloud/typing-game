@@ -1,23 +1,23 @@
 {
   "name": "typing-game",
   "version": "1.0.0",
-  "description": "",
-  "main": "./build/script.js",
-  "dependencies": {
-    "gh-pages": "^2.2.0"
-  },
-  "devDependencies": {},
+  "main": "./build/script",
   "scripts": {
-    "deploy" : "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/D4YonSoundcloud/typing-game.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/D4YonSoundcloud/typing-game/issues"
   },
-  "homepage": "https://D4YonSoundcloud.github.io/typing-game#readme"
+  "homepage": "https://d4yonsoundcloud.github.io/typing-game/",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
 }

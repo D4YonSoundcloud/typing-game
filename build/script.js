@@ -26,7 +26,22 @@ const words = [
   "this",
   "true;",
   "false;",
-  "arrowFunction = () =>"
+  "arrowFunction = () =>",
+  "var temp = arr[i]",
+  "arr[i] = arr[i+1]",
+  "arr[i+1] = temp",
+  "constructor(){}",
+  "this.head = null",
+  "this.tail = null",
+  "class singlyLinkedList {}",
+  "module.export",
+  "arr.push(val)",
+  "arr.shift()",
+  "class Graph {}",
+  "render () {}",
+  "return ()",
+  "for(let i of arr)",
+  "if(!this.head) return false"
 ];
 
 //set difficulty in value to local storage, if none then default to medium
